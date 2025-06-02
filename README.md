@@ -74,11 +74,11 @@ Every little shadow counts. 🕶️</i>
  [**Linkdin**](https://github.com/htr-tech/zphisher/releases/latest)
 
 <p align="left">
-  <a href="https://www.instagram.com/" target="fb"><img src="D:\code\ShadowText\resource\fb.png"></a>
+  <a href="https://www.facebook.com/" target="fb"><img src="resource\fb.png" width="40" height="40"></a> <a href="https://www.facebook.com/">Facebook</a>
 </p>
 <p align="left">
-  <a href="https://www.facebjook.com/" target="ig"><img src="D:\code\ShadowText\resource\ig.png"></a>
+  <a href="https://www.instagram.com/" target="ig"><img src="resource\ig.png" width="40" height="40"></a> <a href="https://www.instagram.com/">Instagram</a>
 </p>
 <p align="left">
-  <a href="https://www.linkedin.com/" target="ld"><img src="D:\code\ShadowText\resource\ld.png"></a>
+  <a href="https://www.linkedin.com/" target="ld"><img src="resource\ld.png" width="40" height="40"></a> <a href="https://www.linkedin.com/">Linkedin</a>
 </p>
