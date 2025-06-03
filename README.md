@@ -51,8 +51,9 @@ Then open your terminal and run:
   ```
   python ShadowText.py 
   ```
-  
-  > 🐍 For Turmux
+
+
+> 🐍 For Turmux
   
 - Download Python in your Turmux
   ```
