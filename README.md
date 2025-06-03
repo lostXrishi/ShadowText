@@ -30,8 +30,9 @@ Use it to convert readable messages into secret codes that only you (or someone 
 
 ## 🧰 Installation
 
-> 🐍 <i><b> Make sure you have the latest version of **Python** installed.</b></i>
+> 🐍 For Windows or Linux
 
+- <i><b> Make sure you have the latest version of **Python** installed.</b></i>
 Then open your terminal and run:
 
 - Just, Clone this repository -
@@ -40,17 +41,43 @@ Then open your terminal and run:
   ```
 - Now go to cloned directory 
   ```
-  $ cd ShadowText 
+  cd ShadowText 
   ```
 - install all required things
   ```
-  $ pip install -r requirements.txt 
+  pip install -r requirements.txt 
   ```
 - Run `ShadowText.py` -
   ```
-  $ python ShadowText.py 
+  python ShadowText.py 
   ```
-
+  
+  > 🐍 For Turmux
+  
+- Download Python in your Turmux
+  ```
+  pkg install python
+  ```
+- Install git
+  ```
+  pkg install git
+  ```
+- Just, Clone this repository -
+  ```
+  git clone https://github.com/lostXrishi/ShadowText.git
+  ```
+- Now go to cloned directory 
+  ```
+  cd ShadowText 
+  ```
+- Install required things
+  ```
+  pip install -r requerments.txt
+  ```
+- Run `ShadowText.py` -
+  ```
+  python ShadowText.py 
+  ```
 ##
 
 ## ⚠️ Disclaimer
